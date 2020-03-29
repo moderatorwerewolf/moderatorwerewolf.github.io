@@ -1,0 +1,17 @@
+# Created by https://www.gitignore.io/api/code,jekyll
+# Edit at https://www.gitignore.io/?templates=code,jekyll
+
+### Code ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+### Jekyll ###
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# End of https://www.gitignore.io/api/code,jekyll
