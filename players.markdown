@@ -12,7 +12,7 @@ not add the contacts, I don't care!
 The players are as follows:
 0. Alex, London UK (Moderator)
 1. Bayan, Sussex UK
-2. Eamon, Geneva UK
+2. Eamon, Geneva Switzerland
 3. Edmund, Bath UK
 4. Edward, London UK
 5. Ellie, London UK
