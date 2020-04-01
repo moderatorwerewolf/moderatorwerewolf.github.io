@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "Day One -- Summary"
+date:   2020-04-01 22:00:00 +0100
+categories: intro
+---
+What an exciting night! Everyone was going crazy and, in the end, very few people died.
+I will summarise the votes below:
+***
+
+### Special Roles Record (Night #1)
+ - The werewolves tried to kill and eat Natalia!
+ - The doctor saved Natalia from certain death!
+ - Edmund tried to kill Edward when he died!
+ - The priest saved Edward from being killed!
+
+***
+
+### Township Voting Record (Night #1)
+#### Preliminary Votes
+1. Justina (3) -- Natalia, Bayan, Idil
+2. Eamon (2) -- Ellie, Lamya
+3. Idil (2) -- Justina
+4. Verity (1) -- Nandi
+5. Will (1) -- Verity
+6. Ellie (1) -- Joel
+Abstentions: Edmund, Edward, Eamon, Kennedy, Sam, Will
+
+#### Final Votes
+1. **Edmund (3) -- Idil, Kennedy, Edward (Casting Vote: Justina)**
+2. Justina (3) -- Natalia, Joel, Sam
+3. Verity (3) -- Nandi, Eamon, Will
+4. Idil (2) -- Justina
+5. Lamya (1) -- Bayan
+6. Sam (1) -- Lamya
+7. Will (1) -- Verity
+Abstentions: Edmund, Ellie
+
+**Edmund was killed via lynch mob.**
+
+**Edmund was a brutal player** thus **he chose to kill Edward** on his death. Edward was saved by 
+the priest.
+
+***
+
+### Remaining Players (Night #1)
+Alive:
+ - Bayan
+ - Eamon
+ - Edward
+ - Ellie
+ - Idil
+ - Joel
+ - Justina
+ - Kennedy
+ - Lamya
+ - Nandi
+ - Natalia
+ - Sam
+ - Verity
+ - Will
+
+Dead:
+ - Edmund :(
