@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "Day One -- Summary"
+title:  "Day One - Summary"
 date:   2020-04-01 22:00:00 +0100
 categories: summary
 permalink: day-one
 ---
 What an exciting night! Everyone was going crazy and, in the end, very few people died.
-I will summarise the votes below:
+I will summarise the votes below:  
 
-***
 
 ### Special Roles Record (Day #1)
  - The werewolves tried to kill and eat Natalia!
@@ -16,7 +15,6 @@ I will summarise the votes below:
  - Edmund tried to kill Edward when he died!
  - The priest saved Edward from being killed!
 
-***
 
 ### Township Voting Record (Day #1)
 #### Preliminary Votes
@@ -26,6 +24,7 @@ I will summarise the votes below:
 4. Verity (1) -- Nandi
 5. Will (1) -- Verity
 6. Ellie (1) -- Joel
+
 Abstentions: Edmund, Edward, Eamon, Kennedy, Sam, Will
 
 #### Final Votes
@@ -36,14 +35,14 @@ Abstentions: Edmund, Edward, Eamon, Kennedy, Sam, Will
 5. Lamya (1) -- Bayan
 6. Sam (1) -- Lamya
 7. Will (1) -- Verity
+
+
 Abstentions: Edmund, Ellie
 
 **Edmund was killed via lynch mob.**
 
 **Edmund was a brutal player** thus **he chose to kill Edward** on his death. Edward was saved by 
 the priest.
-
-***
 
 ### Remaining Players (Day #1)
 Alive:
