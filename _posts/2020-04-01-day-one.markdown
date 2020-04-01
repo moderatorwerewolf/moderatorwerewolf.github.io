@@ -2,13 +2,15 @@
 layout: post
 title:  "Day One -- Summary"
 date:   2020-04-01 22:00:00 +0100
-categories: intro
+categories: summary
+permalink: day-one
 ---
 What an exciting night! Everyone was going crazy and, in the end, very few people died.
 I will summarise the votes below:
+
 ***
 
-### Special Roles Record (Night #1)
+### Special Roles Record (Day #1)
  - The werewolves tried to kill and eat Natalia!
  - The doctor saved Natalia from certain death!
  - Edmund tried to kill Edward when he died!
@@ -16,7 +18,7 @@ I will summarise the votes below:
 
 ***
 
-### Township Voting Record (Night #1)
+### Township Voting Record (Day #1)
 #### Preliminary Votes
 1. Justina (3) -- Natalia, Bayan, Idil
 2. Eamon (2) -- Ellie, Lamya
@@ -43,7 +45,7 @@ the priest.
 
 ***
 
-### Remaining Players (Night #1)
+### Remaining Players (Day #1)
 Alive:
  - Bayan
  - Eamon
