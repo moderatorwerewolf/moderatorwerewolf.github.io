@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Day Three - Summary"
+date:   2020-04-03 22:00:00 +0100
+categories: summary
+permalink: day-three
+---
+Well, shit went down... again. Summary below.
+
+### Special Roles Record (Day #3)
+ - The werewolves killed and ate Lamya!
+
+
+### Township Voting Record (Day #3)
+#### Preliminary Votes
+1. Will (6) -- Bayan, Eamon, Edward, Idil, Kennedy, Nandi
+2. Eamon (1) -- Will
+
+Abstentions: Ellie, Natalia, Sam, Verity
+
+#### Final Votes
+1. **Will (6) -- Bayan, Eamon, Edward, Kennedy, Nandi, Verity**
+2. Eamon (3) -- Ellie, Sam, Will
+3. Natalia (1) -- Idil
+
+Abstentions: Natalia
+
+**Will was killed via lynch mob.**
+
+### Remaining Players (Day #3)
+Alive:
+ - Bayan
+ - Eamon
+ - Edward
+ - Ellie
+ - Idil
+ - Kennedy
+ - Nandi
+ - Natalia
+ - Sam
+ - Verity
+
+Dead:
+ - Edmund :(
+ - Joel :(
+ - Justina :(
+ - Lamya :(
+ - Will :(

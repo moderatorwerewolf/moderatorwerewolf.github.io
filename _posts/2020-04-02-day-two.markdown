@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "Day Two - Summary"
+date:   2020-04-02 22:00:00 +0100
+categories: summary
+permalink: day-two
+---
+Well, shit went down... Summary below.
+
+### Special Roles Record (Day #2)
+ - The werewolves tried to kill and eat Ellie!
+ - The priest saved Ellie from certain death!
+
+
+### Township Voting Record (Day #2)
+#### Preliminary Votes
+1. Joel (8) -- Edward, Ellie, Justina, Kennedy, Natalia, Verity, Will
+2. Justina (1) -- Joel
+3. Eamon (1) -- Lamya
+4. Sam (1) -- Nandi
+5. Natalia (1) -- Idil
+6. Verity (1) -- Bayan
+
+Abstentions: Eamon, Sam
+
+#### Final Votes
+1. **Joel (9) -- Eamon, Edward, Justina, Kennedy, Lamya, Nandi, Natalia, Sam**
+2. Justina (3) -- Joel, Will
+3. Sam (3) -- Ellie, Idil
+4. Will (2) -- Bayan, Verity
+
+**Joel was killed via lynch mob.**
+
+**Justina left the game.**
+
+### Remaining Players (Day #2)
+Alive:
+ - Bayan
+ - Eamon
+ - Edward
+ - Ellie
+ - Idil
+ - Kennedy
+ - Lamya
+ - Nandi
+ - Natalia
+ - Sam
+ - Verity
+ - Will
+
+Dead:
+ - Edmund :(
+ - Joel :(
+ - Justina :(
